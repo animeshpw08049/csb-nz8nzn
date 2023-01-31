@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://animeshpw08049.github.io/csb-nz8nzn/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://animeshpw08049.github.io/csb-nz8nzn/static/js/main.57b440c6.chunk.js",
+    "main.js.map": "https://animeshpw08049.github.io/csb-nz8nzn/static/js/main.57b440c6.chunk.js.map",
+    "runtime-main.js": "https://animeshpw08049.github.io/csb-nz8nzn/static/js/runtime-main.07baadc4.js",
+    "runtime-main.js.map": "https://animeshpw08049.github.io/csb-nz8nzn/static/js/runtime-main.07baadc4.js.map",
+    "static/js/2.eef0a659.chunk.js": "https://animeshpw08049.github.io/csb-nz8nzn/static/js/2.eef0a659.chunk.js",
+    "static/js/2.eef0a659.chunk.js.map": "https://animeshpw08049.github.io/csb-nz8nzn/static/js/2.eef0a659.chunk.js.map",
+    "index.html": "https://animeshpw08049.github.io/csb-nz8nzn/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://animeshpw08049.github.io/csb-nz8nzn/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.eef0a659.chunk.js.LICENSE.txt": "https://animeshpw08049.github.io/csb-nz8nzn/static/js/2.eef0a659.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07baadc4.js",
+    "static/js/2.eef0a659.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.57b440c6.chunk.js"
+  ]
+}
